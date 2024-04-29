@@ -3,7 +3,7 @@
 <package format="3">
   <name>assignment2</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>Topic+Service+Action in one launch file</description>
   <maintainer email="gogun0928@naver.com">go</maintainer>
   <license>Apache-2.0</license>
 
